@@ -1,2 +1,3 @@
 # project-main
-This is my class 12th project. 
+This is my class 12 computer science project.
+
